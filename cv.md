@@ -6,12 +6,14 @@
 ## Навыки:
 #### Изучаю HTML, CSS, PhpStorm
 ## Примеры кода:
-    <h1>Инструктор Кекс</h1>
-       <p>Обучение начинающих котят</p>
-       <img src="img/keks.png" width="359" height="159" alt="Фото Кекса">
-     </header>
-     
-    <section class="features">
+```
+<header>
+  <h1>Инструктор Кекс</h1>
+  <p>Обучение начинающих котят</p>
+  <img src="img/keks.png" width="359" height="159" alt="Фото Кекса">
+</header> 
+<section class="features">
+```
 ## Опыт:
 #### Работала на домашнем ноутбуке; смотрела, как работает муж.
 ## Образование:
